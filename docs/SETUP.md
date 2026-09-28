@@ -13,7 +13,7 @@
 [Claude Code on the web](https://code.claude.com/docs/en/web-quickstart) can run
 career-ops without a local checkout. It is currently a research preview for
 eligible Claude plans. A web session clones a GitHub repository into an
-isolated cloud VM; it does not have your machine's files or local configuration.
+isolated cloud VM; it does not have your machine's files or local configuration!
 
 1. Put career-ops in a **private GitHub repository** that your account can
    access. You can use [GitHub Importer](https://docs.github.com/en/migrations/importing-source-code/using-github-importer/importing-a-repository-with-github-importer)
